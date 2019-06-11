@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Sorin Chiorean</title>
-    <link>https://schiorean.netlify.com/series/</link>
+    <link>https://schiorean.github.io/series/</link>
     <description>Recent content in Series on Sorin Chiorean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://schiorean.netlify.com/series/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://schiorean.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo</title>
-      <link>https://schiorean.netlify.com/series/hugo/</link>
+      <link>https://schiorean.github.io/series/hugo/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://schiorean.netlify.com/series/hugo/</guid>
+      <guid>https://schiorean.github.io/series/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme</title>
-      <link>https://schiorean.netlify.com/series/theme/</link>
+      <link>https://schiorean.github.io/series/theme/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://schiorean.netlify.com/series/theme/</guid>
+      <guid>https://schiorean.github.io/series/theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Getting Started</title>
-      <link>https://schiorean.netlify.com/series/getting-started/</link>
+      <link>https://schiorean.github.io/series/getting-started/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://schiorean.netlify.com/series/getting-started/</guid>
+      <guid>https://schiorean.github.io/series/getting-started/</guid>
       <description></description>
     </item>
     
