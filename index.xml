@@ -42,11 +42,8 @@ You can contact me via  or via sorin.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://schiorean.github.io/projects/</guid>
-      <description>csv2table Github
-A fast and flexible command line tool to automate parsing and importing of CSV files into database tables. Currently it only supports MySQL.
-A relevant use case is the nightly import into a database of a CSV file, with a twist: some of the columns need special parsing.
-Consider the following CSV file
-No ID;Reading;Reading_Date;Channel 1;2,5;02.05.2014;X 2;2,5;02.05.2014;X 3;2,5;02.05.2014;First 4;2,5;02.05.2014;X 5;2,5;02.05.2014;Last 6;2,5;07.05.2014;X 7;2,5;17.07.2014;X 8;2,5;23.07.2014;X 9;2,5;28.07.2014;X 10;2,5;17.03.2015;X 11;2,5;01.02.2016;  column no_id needs an index because we use inside &amp;ldquo;where&amp;rdquo; and &amp;ldquo;order by&amp;rdquo; sql clauses column reading_date needs to be imported as &amp;ldquo;date&amp;rdquo; sql column but is formatted as &amp;ldquo;dd.</description>
+      <description> csv2table A fast and flexible command line tool to automate parsing and importing of CSV files into database tables.
+ A short introduction Code and full documentation on Github project page  </description>
     </item>
     
   </channel>
