@@ -22,3 +22,7 @@ footer.footer p {
         display:none;
     }
 }
+
+.list ul li .date {
+    width: 15rem;
+}
