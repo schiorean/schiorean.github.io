@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://schiorean.github.io/about/</loc>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://schiorean.github.io/categories/</loc>
     <lastmod>2019-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -12,6 +17,11 @@
     <loc>https://schiorean.github.io/posts/</loc>
     <lastmod>2019-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://schiorean.github.io/projects/</loc>
+    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -35,14 +45,6 @@
     <loc>https://schiorean.github.io/categories/projects/</loc>
     <lastmod>2019-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://schiorean.github.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://schiorean.github.io/projects/</loc>
   </url>
   
 </urlset>
