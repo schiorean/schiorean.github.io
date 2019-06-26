@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Sorin Chiorean</title>
-    <link>https://schiorean.github.io/posts/</link>
-    <description>Recent content in Posts on Sorin Chiorean</description>
+    <title>Articles on Sorin Chiorean</title>
+    <link>https://schiorean.github.io/articles/</link>
+    <description>Recent content in Articles on Sorin Chiorean</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 13 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://schiorean.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://schiorean.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>csv2table - a fast and flexible CSV import tool</title>
-      <link>https://schiorean.github.io/posts/csv2table/</link>
+      <link>https://schiorean.github.io/articles/csv2table/</link>
       <pubDate>Thu, 13 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://schiorean.github.io/posts/csv2table/</guid>
-      <description>csv2table Github
-A fast and flexible command line tool to automate parsing and importing of CSV files into database tables. Currently it only supports MySQL.
+      <guid>https://schiorean.github.io/articles/csv2table/</guid>
+      <description>csv2table A fast and flexible command line tool to automate parsing and importing of CSV files into database tables. Currently it only supports MySQL.
 A relevant use case is the nightly import into a database of a CSV file, with a twist: some of the columns need special parsing.
 Consider the following CSV file
 No ID;Reading;Reading_Date;Channel 1;2,5;02.05.2014;X 2;2,5;02.05.2014;X 3;2,5;02.05.2014;First 4;2,5;02.05.2014;X 5;2,5;02.05.2014;Last 6;2,5;07.05.2014;X 7;2,5;17.07.2014;X 8;2,5;23.07.2014;X 9;2,5;28.07.2014;X 10;2,5;17.03.2015;X 11;2,5;01.02.2016;  column no_id needs an index because we use inside &amp;ldquo;where&amp;rdquo; and &amp;ldquo;order by&amp;rdquo; sql clauses column reading_date needs to be imported as &amp;ldquo;date&amp;rdquo; sql column but is formatted as &amp;ldquo;dd.</description>

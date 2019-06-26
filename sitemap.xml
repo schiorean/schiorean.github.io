@@ -8,13 +8,13 @@
   </url>
   
   <url>
-    <loc>https://schiorean.github.io/categories/</loc>
+    <loc>https://schiorean.github.io/articles/</loc>
     <lastmod>2019-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://schiorean.github.io/posts/</loc>
+    <loc>https://schiorean.github.io/categories/</loc>
     <lastmod>2019-06-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -37,7 +37,7 @@
   </url>
   
   <url>
-    <loc>https://schiorean.github.io/posts/csv2table/</loc>
+    <loc>https://schiorean.github.io/articles/csv2table/</loc>
     <lastmod>2019-06-13T00:00:00+00:00</lastmod>
   </url>
   
