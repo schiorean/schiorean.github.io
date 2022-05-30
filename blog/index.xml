@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sorin&#39;s blog</title>
-    <link>https://schiorean.com/</link>
-    <description>Recent content on Sorin&#39;s blog</description>
+    <title>Blog on Sorin&#39;s blog</title>
+    <link>https://schiorean.com/blog/</link>
+    <description>Recent content in Blog on Sorin&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2022, Sorin.</copyright>
-    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://schiorean.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://schiorean.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://schiorean.com/markdown-syntax-guide/</link>

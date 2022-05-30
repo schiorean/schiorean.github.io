@@ -1,50 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://schiorean.github.io/about/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://schiorean.github.io/articles/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
+    <loc>https://schiorean.com/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url><url>
+    <loc>https://schiorean.com/blog/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://schiorean.com/blog/markdown/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://schiorean.com/markdown-syntax-guide/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://schiorean.com/blog/syntax/</loc>
+    <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url>
-  
-  <url>
-    <loc>https://schiorean.github.io/categories/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://schiorean.github.io/projects/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://schiorean.github.io/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://schiorean.github.io/categories/csv2table/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://schiorean.github.io/articles/csv2table/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://schiorean.github.io/categories/projects/</loc>
-    <lastmod>2019-06-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
 </urlset>
